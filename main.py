@@ -7,6 +7,7 @@ import meteostat
 from meteostat import Point, Daily
 import json
 
+#Deepali has created this code
 # Open the text file
 with open('C:\\Users\\Admin\\PycharmProjects\\Growing Degree Days 13 crops\\growth stage for 13 crops_json.txt', 'r') as f:
     # Read the contents of the file
