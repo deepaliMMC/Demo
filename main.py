@@ -12,7 +12,7 @@ import json
 with open('C:\\Users\\Admin\\PycharmProjects\\Growing Degree Days 13 crops\\growth stage for 13 crops_json.txt', 'r') as f:
     # Read the contents of the file
     data = f.read()
-
+#Do not use raster file used vector for better prediction
 # Replace single quotes with double quotes
 data = data.replace("'", "\"")
 
