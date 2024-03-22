@@ -1,4 +1,5 @@
 # pip install meteostat
+#This are imopotant librarires
 from datetime import datetime
 import pandas as pd
 from geopy import Nominatim   #not required if lat long is picked from the dashboard
